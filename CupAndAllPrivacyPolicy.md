@@ -1,4 +1,4 @@
-// Cup&All : Privacy policy
+Cup&All : Privacy policy
 Welcome to the Cup&All app for Android!
 
 This is an Android app developed by SoumSoumGames and the app is available on Google Play.
@@ -12,4 +12,4 @@ If you find any security vulnerability that has been inadvertently caused by us,
 Yours sincerely,
 SoumSoumGames.
 Angers, France.
-acraste@gmail.com //
+acraste@gmail.com
