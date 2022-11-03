@@ -1,8 +1,8 @@
 RapHero : Privacy policy 
 
-Welcome to the RapHero app for Android!
+Welcome to the RapHero app for Android ans iOS!
 
-This is an Android and iOs app developed by SoumSoumGames and the app is available on Google Play and App Store.
+This is an Android and iOS app developed by SoumSoumGames and the app is available on Google Play and App Store.
 
 SoumSoumGames take your privacy very seriously. SoumSoumGames logs no information on you and has no interest in doing such.
 
