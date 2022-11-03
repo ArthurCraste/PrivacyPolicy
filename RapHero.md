@@ -10,4 +10,4 @@ We have not programmed this app to collect any personally identifiable informati
 
 If you find any security vulnerability that has been inadvertently caused by us, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
-Yours sincerely, SoumSoumGames. Angers, France. acraste@gmail.com
+Yours sincerely, SoumSoumGames. Angers, France. soumsoumgames@gmail.com
